@@ -1,4 +1,4 @@
-*/all_objs
+#/all_objs
 */cpp/*
 *.crt
 *.csr
@@ -14,4 +14,4 @@ openssl/project/unpack
 src/obj
 test/unit
 TODO*
- 
+* 
